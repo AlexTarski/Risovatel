@@ -1,0 +1,9 @@
+D:\Visual Studio\ReposForULearn\risovatel\bin\Debug\RefactorMe.exe.config
+D:\Visual Studio\ReposForULearn\risovatel\bin\Debug\RefactorMe.exe
+D:\Visual Studio\ReposForULearn\risovatel\bin\Debug\RefactorMe.pdb
+D:\Visual Studio\ReposForULearn\risovatel\bin\Debug\nunit.framework.dll
+D:\Visual Studio\ReposForULearn\risovatel\obj\Debug\Risovatel.csproj.AssemblyReference.cache
+D:\Visual Studio\ReposForULearn\risovatel\obj\Debug\Risovatel.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ReposForULearn\risovatel\obj\Debug\Risovatel.csproj.CopyComplete
+D:\Visual Studio\ReposForULearn\risovatel\obj\Debug\RefactorMe.exe
+D:\Visual Studio\ReposForULearn\risovatel\obj\Debug\RefactorMe.pdb
